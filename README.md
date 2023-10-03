@@ -1,6 +1,6 @@
 # Insertion sort algorithm.
 
-Implementation of Insertion Sort Algorithm in HUFF.
+Implementation of Insertion Sort Algorithm in HUFF..
 
 ## Disclaimer
 
